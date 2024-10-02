@@ -1,1 +1,1 @@
-Intro to Computer Science Projects
+Valerie Lam's Projects
